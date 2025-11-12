@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Debug Soul Animal Storage</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        button { margin: 10px; padding: 10px; font-size: 16px; }
+        #output { margin-top: 20px; padding: 10px; background: #f5f5f5; }
+        pre { background: white; padding: 10px; overflow: auto; }
+    </style>
+</head>
+<body>
+    <h1>🦊 靈魂動物記錄調試工具</h1>
+    
+    <button onclick="checkStorage()">📋 檢查 localStorage</button>
+    <button onclick="clearStorage()">🗑️ 清除 localStorage</button>
+    <button onclick="addTestRecord()">➕ 添加測試記錄 (guest)</button>
+    <button onclick="transferTest()">🔄 測試記錄轉移</button>
+    
+    <div id="output"></div>
+    
+    <script>
+        function checkStorage() {
+            const records = localStorage.getItem('soul_animal_records');
+            const output = document.getElementById('output');
+            
+            if (records) {
+                const parsed = JSON.parse(records);
+                output.innerHTML = '<h3>📊 當前記錄:</h3><pre>' + JSON.stringify(parsed, null, 2) + '</pre>';
+                
+                // 統計資訊
+                let stats = '<h4>📈 統計資訊:</h4>';
+                Object.keys(parsed).forEach(user => {
+                    stats += `<p>${user}: ${parsed[user].length} 條記錄</p>`;
+                });
+                output.innerHTML += stats;
+            } else {
+                output.innerHTML = '<h3>❌ 沒有找到記錄</h3>';
+            }
+        }
+        
+        function clearStorage() {
+            localStorage.removeItem('soul_animal_records');
+            document.getElementById('output').innerHTML = '<h3>✅ 已清除 localStorage</h3>';
+        }
+        
+        function addTestRecord() {
+            const testRecord = {
+                guest: [{
+                    id: Date.now(),
+                    timestamp: new Date().toLocaleString('zh-TW'),
+                    animalResult: {
+                        finalAnimal: 'Fox',
+                        animalName: '狐狸 (Fox)',
+                        awareness: 75,
+                        awarenessLabel: '高',
+                        agePrediction: 'C級 (26-35歲)',
+                        genderPrediction: 'female',
+                        level: '特務•中階',
+                        summary: '聰明好奇、反應快，但容易被高報酬誘惑。',
+                        analysis: '你天生好奇且行動力強，擅長抓住機會與新事物。',
+                        topFraudRisks: [['9_investment', 3], ['3_ecommerce', 2]]
+                    }
+                }]
+            };
+            
+            localStorage.setItem('soul_animal_records', JSON.stringify(testRecord));
+            document.getElementById('output').innerHTML = '<h3>✅ 已添加測試記錄到 guest 用戶</h3>';
+            setTimeout(checkStorage, 500);
+        }
+        
+        function transferTest() {
+            const records = localStorage.getItem('soul_animal_records');
+            if (!records) {
+                document.getElementById('output').innerHTML = '<h3>❌ 沒有記錄可轉移</h3>';
+                return;
+            }
+            
+            const parsed = JSON.parse(records);
+            if (parsed.guest) {
+                // 模擬轉移 guest 記錄到 white
+                parsed.white = parsed.guest;
+                delete parsed.guest;
+                localStorage.setItem('soul_animal_records', JSON.stringify(parsed));
+                document.getElementById('output').innerHTML = '<h3>✅ 已將 guest 記錄轉移到 white</h3>';
+                setTimeout(checkStorage, 500);
+            } else {
+                document.getElementById('output').innerHTML = '<h3>❌ 沒有 guest 記錄可轉移</h3>';
+            }
+        }
+        
+        // 頁面載入時自動檢查
+        window.onload = checkStorage;
+    </script>
+</body>
+</html>

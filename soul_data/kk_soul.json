@@ -1,0 +1,54 @@
+{
+  "soulXP": 490,
+  "techLevel": 1,
+  "currentAnimalCode": null,
+  "gameHistory": [
+    {
+      "timestamp": 1761396906472,
+      "messageId": 58,
+      "isCorrect": true,
+      "xpGained": 125,
+      "totalXP": 490,
+      "stage": "初始期",
+      "animalCode": null
+    },
+    {
+      "timestamp": 1761396903391,
+      "messageId": 82,
+      "isCorrect": true,
+      "xpGained": 85,
+      "totalXP": 365,
+      "stage": "初始期",
+      "animalCode": null
+    },
+    {
+      "timestamp": 1761396900505,
+      "messageId": 4,
+      "isCorrect": true,
+      "xpGained": 125,
+      "totalXP": 280,
+      "stage": "種子期",
+      "animalCode": null
+    },
+    {
+      "timestamp": 1761396893032,
+      "messageId": 70,
+      "isCorrect": true,
+      "xpGained": 80,
+      "totalXP": 155,
+      "stage": "種子期",
+      "animalCode": null
+    },
+    {
+      "timestamp": 1761396648016,
+      "messageId": 117,
+      "isCorrect": true,
+      "xpGained": 75,
+      "totalXP": 75,
+      "stage": "種子期",
+      "animalCode": null
+    }
+  ],
+  "lastSync": 1761396908477,
+  "version": "1.0"
+}

@@ -1,0 +1,1000 @@
+{
+  "soulXP": 395,
+  "techLevel": 9,
+  "currentAnimalCode": "TISL",
+  "gameHistory": [
+    {
+      "timestamp": 1761557199048,
+      "messageId": 28,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761557196208,
+      "messageId": 117,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761557192305,
+      "messageId": 46,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761557188713,
+      "messageId": 83,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761557185011,
+      "messageId": 23,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761556605793,
+      "messageId": 107,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761556602312,
+      "messageId": 108,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761556599712,
+      "messageId": 106,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761556597665,
+      "messageId": 83,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761556594881,
+      "messageId": 88,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 30,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761554756802,
+      "messageId": 95,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761554754458,
+      "messageId": 38,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761554750769,
+      "messageId": 71,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761554747841,
+      "messageId": 94,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761554744985,
+      "messageId": 27,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 20,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761554199691,
+      "messageId": 105,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761554196595,
+      "messageId": 57,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761554194281,
+      "messageId": 44,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761554191362,
+      "messageId": 94,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761554189106,
+      "messageId": 22,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553935139,
+      "messageId": 34,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553927553,
+      "messageId": 38,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553920697,
+      "messageId": 20,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553916513,
+      "messageId": 106,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553912698,
+      "messageId": 57,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 10,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553642730,
+      "messageId": 38,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553638209,
+      "messageId": 16,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553634602,
+      "messageId": 69,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553631786,
+      "messageId": 27,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553625410,
+      "messageId": 29,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553121178,
+      "messageId": 52,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553115826,
+      "messageId": 117,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553112834,
+      "messageId": 41,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553109114,
+      "messageId": 112,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761553106485,
+      "messageId": 140,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761552951731,
+      "messageId": 83,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761552948521,
+      "messageId": 82,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761552945707,
+      "messageId": 30,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761552943202,
+      "messageId": 72,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761552934243,
+      "messageId": 108,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761552445002,
+      "messageId": 83,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761552441650,
+      "messageId": 57,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGL"
+    },
+    {
+      "timestamp": 1761552438874,
+      "messageId": 81,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGL"
+    },
+    {
+      "timestamp": 1761552436571,
+      "messageId": 1,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGL"
+    },
+    {
+      "timestamp": 1761552432251,
+      "messageId": 58,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGL"
+    },
+    {
+      "timestamp": 1761552124508,
+      "messageId": 29,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761552121419,
+      "messageId": 107,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761552118354,
+      "messageId": 97,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761552115658,
+      "messageId": 22,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761552111882,
+      "messageId": 118,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761550376812,
+      "messageId": 3,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761550372860,
+      "messageId": 53,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761550370243,
+      "messageId": 119,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761550366275,
+      "messageId": 27,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761550364044,
+      "messageId": 4,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761413270393,
+      "messageId": 27,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 3890,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761413266096,
+      "messageId": 95,
+      "isCorrect": true,
+      "xpGained": 75,
+      "totalXP": 3880,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761413257265,
+      "messageId": 51,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 3805,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761413252625,
+      "messageId": 22,
+      "isCorrect": true,
+      "xpGained": 115,
+      "totalXP": 3795,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761413246624,
+      "messageId": 72,
+      "isCorrect": true,
+      "xpGained": 75,
+      "totalXP": 3680,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761412433432,
+      "messageId": 117,
+      "isCorrect": true,
+      "xpGained": 105,
+      "totalXP": 3605,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761412431336,
+      "messageId": 35,
+      "isCorrect": true,
+      "xpGained": 105,
+      "totalXP": 3500,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761412427896,
+      "messageId": 72,
+      "isCorrect": true,
+      "xpGained": 75,
+      "totalXP": 3395,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761412423257,
+      "messageId": 27,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 3320,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761412420536,
+      "messageId": 82,
+      "isCorrect": true,
+      "xpGained": 75,
+      "totalXP": 3310,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761411960192,
+      "messageId": 70,
+      "isCorrect": true,
+      "xpGained": 115,
+      "totalXP": 3235,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761411957465,
+      "messageId": 71,
+      "isCorrect": true,
+      "xpGained": 95,
+      "totalXP": 3120,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761411952698,
+      "messageId": 43,
+      "isCorrect": true,
+      "xpGained": 115,
+      "totalXP": 3025,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761411950145,
+      "messageId": 107,
+      "isCorrect": true,
+      "xpGained": 120,
+      "totalXP": 2910,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761411947267,
+      "messageId": 21,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 2790,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761409999033,
+      "messageId": 107,
+      "isCorrect": true,
+      "xpGained": 140,
+      "totalXP": 2780,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761409993826,
+      "messageId": 38,
+      "isCorrect": true,
+      "xpGained": 115,
+      "totalXP": 2640,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761409986818,
+      "messageId": 6,
+      "isCorrect": true,
+      "xpGained": 130,
+      "totalXP": 2525,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761409983523,
+      "messageId": 105,
+      "isCorrect": true,
+      "xpGained": 90,
+      "totalXP": 2395,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761409980091,
+      "messageId": 29,
+      "isCorrect": true,
+      "xpGained": 110,
+      "totalXP": 2305,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761409112362,
+      "messageId": 72,
+      "isCorrect": true,
+      "xpGained": 80,
+      "totalXP": 2195,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761409108690,
+      "messageId": 84,
+      "isCorrect": true,
+      "xpGained": 75,
+      "totalXP": 2115,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761409102970,
+      "messageId": 57,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 2040,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761409099594,
+      "messageId": 4,
+      "isCorrect": true,
+      "xpGained": 135,
+      "totalXP": 2030,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761409093858,
+      "messageId": 69,
+      "isCorrect": true,
+      "xpGained": 110,
+      "totalXP": 1895,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761401503279,
+      "messageId": 82,
+      "isCorrect": true,
+      "xpGained": 95,
+      "totalXP": 1785,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761401500342,
+      "messageId": 58,
+      "isCorrect": true,
+      "xpGained": 125,
+      "totalXP": 1690,
+      "stage": "進化期",
+      "animalCode": "TISL"
+    },
+    {
+      "timestamp": 1761401497799,
+      "messageId": 6,
+      "isCorrect": true,
+      "xpGained": 130,
+      "totalXP": 1565,
+      "stage": "進化期",
+      "animalCode": "TDSL"
+    },
+    {
+      "timestamp": 1761401493951,
+      "messageId": 22,
+      "isCorrect": true,
+      "xpGained": 115,
+      "totalXP": 1435,
+      "stage": "進化期",
+      "animalCode": "TDSL"
+    },
+    {
+      "timestamp": 1761401490694,
+      "messageId": 96,
+      "isCorrect": true,
+      "xpGained": 120,
+      "totalXP": 1320,
+      "stage": "進化期",
+      "animalCode": "TDSL"
+    },
+    {
+      "timestamp": 1761401369701,
+      "messageId": 94,
+      "isCorrect": true,
+      "xpGained": 95,
+      "totalXP": 1200,
+      "stage": "進化期",
+      "animalCode": "TDGL"
+    },
+    {
+      "timestamp": 1761401367062,
+      "messageId": 2,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 1105,
+      "stage": "進化期",
+      "animalCode": "TDSL"
+    },
+    {
+      "timestamp": 1761401358095,
+      "messageId": 70,
+      "isCorrect": true,
+      "xpGained": 105,
+      "totalXP": 1095,
+      "stage": "進化期",
+      "animalCode": "TDSL"
+    },
+    {
+      "timestamp": 1761401354862,
+      "messageId": 22,
+      "isCorrect": true,
+      "xpGained": 110,
+      "totalXP": 990,
+      "stage": "初始期",
+      "animalCode": "TDSL"
+    },
+    {
+      "timestamp": 1761401350798,
+      "messageId": 57,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 880,
+      "stage": "初始期",
+      "animalCode": "KDGL"
+    },
+    {
+      "timestamp": 1761401099631,
+      "messageId": 107,
+      "isCorrect": true,
+      "xpGained": 140,
+      "totalXP": 870,
+      "stage": "初始期",
+      "animalCode": "TDGL"
+    },
+    {
+      "timestamp": 1761401094200,
+      "messageId": 23,
+      "isCorrect": true,
+      "xpGained": 115,
+      "totalXP": 730,
+      "stage": "初始期",
+      "animalCode": "TDGL"
+    },
+    {
+      "timestamp": 1761401090822,
+      "messageId": 29,
+      "isCorrect": true,
+      "xpGained": 140,
+      "totalXP": 615,
+      "stage": "初始期",
+      "animalCode": "KDGL"
+    },
+    {
+      "timestamp": 1761401087662,
+      "messageId": 117,
+      "isCorrect": true,
+      "xpGained": 100,
+      "totalXP": 475,
+      "stage": "初始期",
+      "animalCode": "TDGL"
+    },
+    {
+      "timestamp": 1761401084655,
+      "messageId": 94,
+      "isCorrect": true,
+      "xpGained": 95,
+      "totalXP": 375,
+      "stage": "初始期",
+      "animalCode": "TDGL"
+    },
+    {
+      "timestamp": 1761400874254,
+      "messageId": 71,
+      "isCorrect": true,
+      "xpGained": 85,
+      "totalXP": 280,
+      "stage": "種子期",
+      "animalCode": "TIGL"
+    },
+    {
+      "timestamp": 1761400871249,
+      "messageId": 109,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 195,
+      "stage": "種子期",
+      "animalCode": "KDGL"
+    },
+    {
+      "timestamp": 1761400868519,
+      "messageId": 94,
+      "isCorrect": true,
+      "xpGained": 100,
+      "totalXP": 185,
+      "stage": "種子期",
+      "animalCode": "KDGL"
+    },
+    {
+      "timestamp": 1761400866382,
+      "messageId": 120,
+      "isCorrect": true,
+      "xpGained": 75,
+      "totalXP": 85,
+      "stage": "種子期",
+      "animalCode": "TIGL"
+    },
+    {
+      "timestamp": 1761400864118,
+      "messageId": 88,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 10,
+      "stage": "種子期",
+      "animalCode": "TIGL"
+    },
+    {
+      "timestamp": 1761557498601,
+      "messageId": 23,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761557503479,
+      "messageId": 4,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761557506239,
+      "messageId": 107,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761557508833,
+      "messageId": 17,
+      "isCorrect": true,
+      "xpGained": null,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761557511312,
+      "messageId": 109,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": null,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761558911153,
+      "messageId": 81,
+      "isCorrect": true,
+      "xpGained": 75,
+      "totalXP": 75,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761558914401,
+      "messageId": 4,
+      "isCorrect": true,
+      "xpGained": 115,
+      "totalXP": 190,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761558916992,
+      "messageId": 94,
+      "isCorrect": true,
+      "xpGained": 95,
+      "totalXP": 285,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761558919103,
+      "messageId": 97,
+      "isCorrect": false,
+      "xpGained": 10,
+      "totalXP": 295,
+      "stage": "種子期",
+      "animalCode": "TIGR"
+    },
+    {
+      "timestamp": 1761558923553,
+      "messageId": 28,
+      "isCorrect": true,
+      "xpGained": 100,
+      "totalXP": 395,
+      "stage": "初始期",
+      "animalCode": "TIGR"
+    }
+  ],
+  "timestamp": 1761639687187,
+  "lastSync": 1761639687212,
+  "version": "1.0"
+}

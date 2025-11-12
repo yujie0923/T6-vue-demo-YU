@@ -1,0 +1,76 @@
+{
+  "dashboard": {
+    "lastUpdate": "2025-10-28T12:00:00Z",
+    "dataSource": "realtime"
+  },
+  "apiManagement": {
+    "tokenQuota": {
+      "daily": 10000,
+      "used": 2847,
+      "resetTime": "2025-10-29T00:00:00Z",
+      "provider": "OpenAI"
+    },
+    "apiKeys": [
+      {
+        "id": "key_001",
+        "name": "主要金鑰",
+        "status": "active",
+        "quota": 5000,
+        "used": 1423,
+        "created": "2025-10-01"
+      },
+      {
+        "id": "key_002", 
+        "name": "備用金鑰",
+        "status": "standby",
+        "quota": 3000,
+        "used": 0,
+        "created": "2025-10-15"
+      }
+    ],
+    "rateLimits": {
+      "systemProtection": {
+        "globalLimit": 1000,
+        "description": "防止系統過載"
+      },
+      "costControl": {
+        "perKeyLimit": 100,
+        "description": "控制Token消耗"
+      },
+      "fairUsage": {
+        "perUserLimit": 50,
+        "description": "確保公平使用"
+      }
+    }
+  },
+  "modelIntegration": {
+    "providers": {
+      "openai": {
+        "status": "active",
+        "health": "良好",
+        "quota": 8500,
+        "responseTime": "245ms",
+        "lastCheck": "2025-10-28T11:55:00Z"
+      },
+      "gemini": {
+        "status": "standby", 
+        "health": "正常",
+        "quota": 5000,
+        "responseTime": "312ms",
+        "lastCheck": "2025-10-28T11:55:00Z"
+      },
+      "claude": {
+        "status": "inactive",
+        "health": "未啟用",
+        "quota": 0,
+        "responseTime": "N/A",
+        "lastCheck": "N/A"
+      }
+    },
+    "fallbackStrategy": {
+      "enabled": true,
+      "order": ["openai", "gemini", "claude"],
+      "autoSwitch": true
+    }
+  }
+}
